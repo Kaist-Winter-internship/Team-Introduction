@@ -1,8 +1,8 @@
-# Kaist Winter Program  
+# **Kaist Winter Program**  
 ## Duration  
 2020-12-28 ~ 2021-02-19  
 ## Subject  
-Recommender System  
+**Recommender System**  
 ## Team Introduction  
 ### 이남경  
 * [Namkyeong Repository](https://github.com/Namkyeong/RecSys_paper)  
