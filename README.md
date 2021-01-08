@@ -1,8 +1,17 @@
 # **Kaist Winter Program**  
+
+## Data Science and Artificial Intelligence Laboratory (DSAIL)
+About Laboratory: http://dsail.kaist.ac.kr/
+
 ## Duration  
-2020-12-28 ~ 2021-02-19  
+2020-12-28 ~ 2021-02-19
+
 ## Subject  
-**Recommender System**  
+**Recommender System**, **Graph Embedding**    
+
+## Objective
+Recommender Systems using Graph Embedding methodology
+
 ## Team Introduction  
 ### 이남경  
 * [Namkyeong Repository](https://github.com/Namkyeong/RecSys_paper)  
