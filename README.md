@@ -15,7 +15,7 @@ Recommender Systems using Graph Embedding methodology
 
 
 ## Team Introduction  
-### 이남경
+### 이남경(Master Student)
 <img width="100" src="https://user-images.githubusercontent.com/68312164/103969409-2b237900-51a9-11eb-9274-dbf0076b9546.png">
 
 * [Namkyeong Repository](https://github.com/Namkyeong/RecSys_paper)  
