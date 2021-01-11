@@ -38,7 +38,7 @@ Recommender Systems using Graph Embedding methodology
 ### 김세인
 <img width="100" src="https://user-images.githubusercontent.com/68312164/103969308-fb747100-51a8-11eb-9ca3-0d13891b82f0.png">
 
-* [Sein Repository]()  
+* [Sein Repository](https://github.com/Sein-Kim/Recommender_Systems)  
 
 ### 윤태영  
 * [Taeyeong Repository](https://github.com/dbsxodud-11/Recommendation)  
