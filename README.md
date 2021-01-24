@@ -48,4 +48,5 @@ Recommender Systems using Graph Embedding methodology
 * [JaeHyun Repository]()  
 ### 김유진  
 * [Yujin Repository]()  
-
+### 이준석
+* [Junseok Repository](https://github.com/LJS-Student/WinterInternship)
